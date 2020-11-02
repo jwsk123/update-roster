@@ -6,4 +6,7 @@ Features:
 * Bad Guy
 * Fight Scenes
 
-Fire Special Effect Description
+
+Special Effects:
+* Fire
+* Sound
